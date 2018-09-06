@@ -1,0 +1,28 @@
+.Main-header{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: rgb(0, 140, 255);
+    background-image: url('../img/img.jpg');
+    overflow: hidden;
+}
+.container {
+    text-align:center;
+}
+.container h3{
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    border: 5px black solid;
+    background-size: cover;
+    display: inline-block;
+}
+.container ul{
+    text-align:left;
+    list-style: none;
+    margin-left: 38.5%;
+}
+#body{
+    background-image:url('../img/img2.jpg');
+    background-size: cover;
+}
