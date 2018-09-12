@@ -38,3 +38,5 @@
 ## Create + switch branch: git checkout -b <name>
 ## Merge a branch to the current branch: git merge <name>
 ## Delete branches: git branch -d <name>
+## use command "git branch -d"
+## use command "git origin push branchname:branchname" to push local branch to remote branch.
