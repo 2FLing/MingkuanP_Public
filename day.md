@@ -18,7 +18,7 @@
 ## Git is currently the world's most advanced distributed version control system !
 ## Normally, git would ask you about your email address and user name,use command "git config --global user.name" and "git config --global user.email" to input the name and email.
 ## use command "git init" to active a directory to be a repository, that way the stuff in this directory can be managed by git.
-##use command "git commit -m" to add information when adding new things to repository.
+## use command "git commit -m" to add information when adding new things to repository.
 ## use command "git status" to see what change has been made.
 ## if "git status" tells you there are some change has been made, you can use "git diff" to see what has been changed
 ## use command "git log" to see all of the logs in repository.
@@ -38,4 +38,3 @@
 ## Create + switch branch: git checkout -b <name>
 ## Merge a branch to the current branch: git merge <name>
 ## Delete branches: git branch -d <name>
-## use command "git origin push branchname:branchname" to push local branch to remote branch.
